@@ -26,16 +26,15 @@ const Work = () => {
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                Tetris Clone (Java)
-
+                                Tetris Clone
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="/">
+                                <a href="/" target="_blank" rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Demo
                                     </button>
                                 </a>
-                                <a href="/">
+                                <a href="/" target="_blank" rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Code
                                     </button>
@@ -53,16 +52,16 @@ const Work = () => {
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                Search Engine (Python)
+                                Search Engine
 
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="/">
+                                <a href="/" target="_blank" rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Demo
                                     </button>
                                 </a>
-                                <a href="/">
+                                <a href="/" target="_blank" rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Code
                                     </button>
@@ -79,15 +78,15 @@ const Work = () => {
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                CyberSecurity Clinic (React)
+                                CyberSecurity Clinic
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="/">
+                                <a href="/" target="_blank" rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Demo
                                     </button>
                                 </a>
-                                <a href="/">
+                                <a href="/" target="_blank" rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Code
                                     </button>
@@ -104,15 +103,15 @@ const Work = () => {
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                Chat Server (Python)
+                                Chat Server
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="/">
+                                <a href="/" target="_blank" rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Demo
                                     </button>
                                 </a>
-                                <a href="/">
+                                <a href="/" target="_blank" rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Code
                                     </button>
@@ -129,16 +128,15 @@ const Work = () => {
                         {/* Hover Effects */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                Task List (HTML, CSS, JS)
-
+                                Task List
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="/">
+                                <a href="/" target="_blank" rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Demo
                                     </button>
                                 </a>
-                                <a href="/">
+                                <a href="https://github.com/ranasohaib079/TaskList" target="_blank" rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Code
                                     </button>
@@ -156,15 +154,14 @@ const Work = () => {
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
                                 Python Search Engine
-
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="/">
+                                <a href="/" target="_blank" rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Demo
                                     </button>
                                 </a>
-                                <a href="/">
+                                <a href="/" target="_blank" rel="noreferrer">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                                         Code
                                     </button>

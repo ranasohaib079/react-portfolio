@@ -1,13 +1,3 @@
-// For social media icons: 
-// For the container:
-// - Remove "hidden lg:"
-// For the li className: 
-// - Change the width parameter to "w-[80px] md:w-[142px] lg:w-[160px]"
-// - Change the height parameter to "h-[40px] lg:h-[60px]"
-// For the (e.g. <FaLinkedin />) icons add:
-// - className="mr-[-10px] lg:mr-0 duration-300"
-// This makes the icons hidden off the screen for small windows, 
-//then they slide into view as small icons for a medium screen, then grow smoothly to large icons for a large screen! Neat!
 import React, { useState } from 'react'
 import { FaBars, FaTimes, FaGithub, FaLinkedin } from 'react-icons/fa'
 import { HiOutlineMail } from 'react-icons/hi'

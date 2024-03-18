@@ -17,10 +17,7 @@ const About = () => {
                         <p>Hi. I'm Rana, nice to meet you. Please take a look around.</p>
                     </div>
                     <div>
-                        <p>I'm a fourth-year student at DePaul University. My roots are from Pakistan, but now I reside in Chicago.
-                            I am passionate about crafting top-tier software that improves the lives of those around me.
-                            With a blend of determination, creativity, and cultural insight,
-                            I eagerly anticipate making a lasting difference in the world of software development.</p>
+                        <p>Add your about me here.</p>
                     </div>
                 </div>
             </div>

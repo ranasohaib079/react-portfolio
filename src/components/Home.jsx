@@ -9,13 +9,13 @@ const Home = () => {
       <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
         <p className='text-myPurple'>Hi, my name is</p>
         <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>
-          Rana Hani
+          Rana
         </h1>
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
           I'm a Computer Science Student.
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
-          In my 4th year at DePaul University, I'm fueled by a passion for expanding my knowledge and expertise in full-stack development and diverse areas of technology.
+          I'm fueled by a passion for expanding my knowledge and expertise in full-stack development and diverse areas of technology.
           I aspire to contribute meaningfully to the ever-evolving landscape of computer science and innovation.
         </p>
         <div >
